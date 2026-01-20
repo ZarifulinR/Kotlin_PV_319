@@ -17,9 +17,5 @@ fun main() {
 
 
 
-    val n = readln().toInt();
-    val myarr3 = arrayOf(n)
-    for (i in myarr3 ) {
-        myarr3
-    }
+
 }
