@@ -19,7 +19,7 @@ fun main() {
     print(prod==prod1);
 
     val laptop = Laptop("Lenovo", 30)
-    val phone = Phone("123-456", "Samsung")
+    val phone = Phone("123-456", "Phone")
 
 
     laptop.turnOn()
